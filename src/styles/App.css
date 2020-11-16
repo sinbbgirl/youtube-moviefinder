@@ -1,0 +1,16 @@
+.App {
+  /* text-align: center; */
+  margin-top: 10px;
+  background: whitesmoke;
+}
+
+#searchBar:focus {
+  box-shadow: 0 1px 1px rgba(233, 144, 159, 0.8) inset, 0 0 8px rgba(230, 33, 66, 0.8); ;
+  outline: 0 none;
+}
+
+.customBtn {
+  cursor: pointer;
+  width: 1.3em;
+  height: 1.3em;
+}
